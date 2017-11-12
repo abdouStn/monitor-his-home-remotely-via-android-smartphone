@@ -1,0 +1,4 @@
+-----------------------------------------------------
+       INSTALLATION DE LA BASE DE DONNEES
+-----------------------------------------------------
+1) Importer le fichier rapace.sql dans votre SGBD (la base doit se nommer Rapace pour que l'application fonctionne)

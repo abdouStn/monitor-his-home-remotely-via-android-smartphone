@@ -1,0 +1,5 @@
+-------------------------------------------
+	INSTALLATION DU SERVEUR
+-------------------------------------------
+1) Placer les scripts et les sources dans votre serveur local
+2) Modifier les scripts php (champs relatifs à la connection à la bdd, premières lignes des scripts)

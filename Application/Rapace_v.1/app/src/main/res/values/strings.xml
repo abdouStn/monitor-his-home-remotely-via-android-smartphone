@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Utilisée par le manifest -->
+    <string name="app_name">Rapace_v.1</string>
+    <string name="action_settings">Settings</string>
+
+
+
+    <!-- Utilisée par activity_authentification.xml && le code associé à cette activité -->
+    <string name="titre">Rapace</string>
+    <string name="email">email :</string>
+    <string name="password">Mot de passe :</string>
+    <string name="connect">Se connecter</string>
+    <string name="rappel">Mémoriser l\'adresse email ?</string>
+    <string name="rememberme">Remember Me</string>
+    <string name="notification">Notification</string>
+    <string name="notification_connection">Connection réussie</string>
+    <string name="notification_desc">Votre session est active</string>
+    <string name="email_or_password_empty">Adresse email ou mot de passe manquant</string>
+
+
+    <!-- Utilisée par affichage_liste_sites.xml -->
+    <string name="titre_affichage_liste_site">Liste sites</string>
+    <string name="siteSurveilles">Voici la liste de vos sites surveillés : </string>
+
+
+    <!-- Utilisée par streaming.xml -->
+    <string name="stop_an_alert">Lever l\'alerte</string>
+    <string name="call_police">Appeler la police</string>
+    <string name="alert_text">Vous avez une nouvelle alerte !</string>
+
+
+    <!-- Utilisée par activity_alert.xml -->
+    <string name="title_activity_alert">Alert</string>
+
+</resources>

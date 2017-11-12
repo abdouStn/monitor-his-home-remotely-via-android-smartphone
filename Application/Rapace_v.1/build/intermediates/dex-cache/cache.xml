@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/quentin/Rapace_v.1/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/home/quentin/Rapace_v.1/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-d7bdfa6676413ae90bacc8574487bffbc746317f.jar" />
+    </item>
+    <item
+        jar="/home/quentin/Rapace_v.1/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/home/quentin/Rapace_v.1/app/build/intermediates/pre-dexed/debug/classes-2454457e1679924cf19794ee6e017b03937b1092.jar" />
+    </item>
+    <item
+        jar="/home/quentin/Rapace_v.1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/home/quentin/Rapace_v.1/app/build/intermediates/pre-dexed/debug/classes-cb3f2e79e3ec5cb2ed2634127dcc564c8cbdf6ae.jar" />
+    </item>
+    <item
+        jar="/home/quentin/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/home/quentin/Rapace_v.1/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-621a62482e08b96430ed3d9ee66ccde8eb5bc8f0.jar" />
+    </item>
+
+</items>
